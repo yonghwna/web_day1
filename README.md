@@ -1,5 +1,3 @@
-# web_day1
-데브코스 1일차 - 기본적인 html 태그 익히기 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 늘 열정적인 삶을 살아가고 있는 OOO입니다.<br/><br/>
